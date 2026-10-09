@@ -1,0 +1,14 @@
+{
+  "name": "ramankrishna-prompt-cache-watch",
+  "description": "Cache Watch, a mod for Claude Code by Rama Krishna Bachu.",
+  "owner": {
+    "name": "Rama Krishna Bachu"
+  },
+  "plugins": [
+    {
+      "name": "prompt-cache-watch",
+      "source": "./",
+      "description": "Shows how much of each request the prompt cache served, and tells you when the cache was rebuilt and the likely reason."
+    }
+  ]
+}

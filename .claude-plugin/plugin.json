@@ -1,0 +1,25 @@
+{
+  "name": "prompt-cache-watch",
+  "displayName": "Cache Watch",
+  "icon": "./.claude-plugin/icon.svg",
+  "version": "0.1.0",
+  "description": "Shows how much of each request the prompt cache served, and tells you when the cache was rebuilt and the likely reason.",
+  "author": {
+    "name": "Rama Krishna Bachu"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/ramankrishna/prompt-cache-watch",
+  "repository": "https://github.com/ramankrishna/prompt-cache-watch",
+  "documentationUrl": "https://github.com/ramankrishna/prompt-cache-watch#readme",
+  "supportUrl": "https://github.com/ramankrishna/prompt-cache-watch/issues",
+  "privacyPolicyUrl": "https://github.com/ramankrishna/prompt-cache-watch/blob/main/PRIVACY.md",
+  "termsOfServiceUrl": "https://github.com/ramankrishna/prompt-cache-watch/blob/main/LICENSE",
+  "keywords": [
+    "mod",
+    "prompt-cache",
+    "tokens",
+    "usage",
+    "cost"
+  ],
+  "types": "./types/index.d.ts"
+}
